@@ -10,7 +10,7 @@ log into their real account, send requests and receive album/song lists accordin
 * [How to start](#how-to-start)
 
 ## Overview
-
+JetBrains Academy Project
 
 ## Screenshots
 ###### screenshot1
