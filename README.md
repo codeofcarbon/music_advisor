@@ -12,12 +12,15 @@ log into their real account, send requests, and receive album/song lists accordi
 ## Overview
 JetBrains Academy Project
 
-An application that will offer music using Spotify. Program read user input and provide information at the user's request.
-- featured — a list of Spotify-featured playlists with their links fetched from API;
-- new — a list of new albums with artists and links on Spotify;
-- categories — a list of all available categories on Spotify (just their names);
-- playlists C_NAME, where C_NAME is the name of category. The list contains playlists of this category and their links on Spotify;
-- exit shuts down the application.
+An application that offers music using Spotify API.
+
+Program read user input and provide information at the user's request.
+- auth - user is redirected to the Spotify login page to confirm authorization, if it is not rejected - the access token is sent;
+- featured - a list of Spotify-featured playlists with their links fetched from API;
+- new - a list of new albums with artists and links on Spotify;
+- categories - a list of all available categories on Spotify (just their names);
+- playlists C_NAME (where C_NAME is the name of category) - the list contains playlists of this category and their links on Spotify;
+- exit - shuts down the application.
 
 ## Screenshots
 ###### screenshot1
