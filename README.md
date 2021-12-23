@@ -24,20 +24,13 @@ Program read user input and provide information at the user's request.
 
 ## Screenshots
 ###### authorization
-<img alt="redirect_link" src="src/main/resources/screenshots/redirecting_for_authorization.png" width="400"/>
-<img alt="spotify_login_page" src="src/main/resources/screenshots/spotify_login_page.png" width="400"/>
-<img alt="confirmation" src="src/main/resources/screenshots/user_auth_confirmed.png" width="400"/>
-<img alt="authorized" src="src/main/resources/screenshots/user_authorized.png" width="400"/>
+<img alt="redirect_link" src="src/main/resources/screenshots/redirecting_for_authorization.png" width="400"/> <img alt="spotify_login_page" src="src/main/resources/screenshots/spotify_login_page.png" width="400"/> <img alt="confirmation" src="src/main/resources/screenshots/user_auth_confirmed.png" width="400"/> <img alt="authorized" src="src/main/resources/screenshots/user_authorized.png" width="400"/>
 
 ###### redirect from link
 ![redirected_to](src/main/resources/screenshots/redirected_from_link.png)
 
 ###### some screenshots from app
-<img alt="new_releases" src="src/main/resources/screenshots/new_releases.png" width="180" height="500"/> 
-<img alt="featured_and_categories" src="src/main/resources/screenshots/featured&amp;categories.png" width="180" height="500"/>
-<img alt="playlists_and_categories" src="src/main/resources/screenshots/playlists+categories.png" width="180" height="500"/> 
-<img alt="paging" src="src/main/resources/screenshots/paging.png" width="180" height="500"/>
-<img alt="exiting" src="src/main/resources/screenshots/playlists_news_exit.png" width="180" height="500"/>
+<img alt="new_releases" src="src/main/resources/screenshots/new_releases.png" width="180" height="500"/> <img alt="featured_and_categories" src="src/main/resources/screenshots/featured&amp;categories.png" width="180" height="500"/> <img alt="playlists_and_categories" src="src/main/resources/screenshots/playlists+categories.png" width="180" height="500"/> <img alt="paging" src="src/main/resources/screenshots/paging.png" width="180" height="500"/> <img alt="exiting" src="src/main/resources/screenshots/playlists_news_exit.png" width="180" height="500"/>
 
 ## Technologies
 - Kotlin 1.5.1
