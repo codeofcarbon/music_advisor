@@ -1,3 +1,5 @@
+package com.codeofcarbon.musicadvisor
+
 object MusicAdvisor {
     lateinit var SERVER_PATH: String
     lateinit var RESOURCE: String

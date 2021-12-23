@@ -1,3 +1,5 @@
+package com.codeofcarbon.musicadvisor
+
 class Paging {
     val firstPage = 1
     private var currentPage = 0

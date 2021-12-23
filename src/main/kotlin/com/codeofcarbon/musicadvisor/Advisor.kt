@@ -1,3 +1,5 @@
+package com.codeofcarbon.musicadvisor
+
 import java.util.*
 import kotlin.system.exitProcess
 

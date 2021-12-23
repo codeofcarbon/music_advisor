@@ -3,7 +3,7 @@ plugins {
     id 'java'
 }
 
-group 'org.codeofcarbon'
+group 'com.codeofcarbon'
 version '1.0-SNAPSHOT'
 
 repositories {
