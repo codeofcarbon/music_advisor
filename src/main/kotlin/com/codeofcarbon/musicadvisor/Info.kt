@@ -1,7 +1,7 @@
 package com.codeofcarbon.musicadvisor
 
 /**
- * com.codeofcarbon.musicadvisor.Info about received data object.
+ * Info about received data object.
  */
 class Info {
     var name = ""
