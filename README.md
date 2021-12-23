@@ -30,7 +30,12 @@ JetBrains Academy Project
 - HttpClient API
 
 ## How to start
-- Clone the repo:
 
-``https://github.com/codeofcarbon/music_advisor``
+  - run command line in the directory you want to store the app and type the following command: 
+  
+    ``git clone https://github.com/codeofcarbon/music_advisor`` 
+    
+    or
+    
+  - start a new project using the *from Version Control* option of your IDE.  
 
