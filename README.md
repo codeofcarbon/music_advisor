@@ -12,6 +12,13 @@ log into their real account, send requests, and receive album/song lists accordi
 ## Overview
 JetBrains Academy Project
 
+An application that will offer music using Spotify. Program read user input and provide information at the user's request.
+- featured — a list of Spotify-featured playlists with their links fetched from API;
+- new — a list of new albums with artists and links on Spotify;
+- categories — a list of all available categories on Spotify (just their names);
+- playlists C_NAME, where C_NAME is the name of category. The list contains playlists of this category and their links on Spotify;
+- exit shuts down the application.
+
 ## Screenshots
 ###### screenshot1
 ![screenshot1](/screenshots/screenshot1.png) 
@@ -31,11 +38,15 @@ JetBrains Academy Project
 
 ## How to start
 
-  - run command line in the directory you want to store the app and type the following command: 
+You can simply download an archive, unzip it inside the directory you want to, and open it in your IDE. 
+
+If you want clone the repo, this is how you begin:
+
+- run command line in the directory you want to store the app and type the following command: 
   
-    ``git clone https://github.com/codeofcarbon/music_advisor`` 
+``git clone https://github.com/codeofcarbon/music_advisor`` 
     
-    or
+   or
     
-  - start a new project using the *from Version Control* option of your IDE.  
+- start with *Project from Version Control* in your IDE by providing the url of this repository.
 
