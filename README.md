@@ -30,7 +30,7 @@ Program read user input and provide information at the user's request.
 ![redirected_to](src/main/resources/screenshots/redirected_from_link.png)
 
 ###### some screenshots from app
-<img alt="new_releases" src="src/main/resources/screenshots/new_releases.png" width="180" height="500"/> <img alt="featured_and_categories" src="src/main/resources/screenshots/featured&amp;categories.png" width="180" height="500"/> <img alt="playlists_and_categories" src="src/main/resources/screenshots/playlists+categories.png" width="180" height="500"/> <img alt="paging" src="src/main/resources/screenshots/paging.png" width="180" height="500"/> <img alt="exiting" src="src/main/resources/screenshots/playlists_news_exit.png" width="180" height="500"/>
+<img alt="new_releases" src="src/main/resources/screenshots/new_releases.png" width="160" height="500"/> <img alt="featured_and_categories" src="src/main/resources/screenshots/featured&amp;categories.png" width="160" height="500"/> <img alt="playlists_and_categories" src="src/main/resources/screenshots/playlists+categories.png" width="160" height="500"/> <img alt="paging" src="src/main/resources/screenshots/paging.png" width="160" height="500"/> <img alt="exiting" src="src/main/resources/screenshots/playlists_news_exit.png" width="160" height="500"/>
 
 ## Technologies
 - Kotlin 1.5.1
