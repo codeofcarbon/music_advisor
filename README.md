@@ -1,7 +1,7 @@
 # Music Advisor 
 
 A simple Kotlin CLI application that uses the Spotify API and allows users to securely (OAuth 2.0) 
-log into their real account, send requests and receive album/song lists according to the selected category.
+log into their real account, send requests, and receive album/song lists according to the selected category.
 
 ## Table of contents
 * [Overview](#overview)
