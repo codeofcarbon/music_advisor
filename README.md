@@ -49,7 +49,5 @@ If you want clone the repo:
   
 ``git clone https://github.com/codeofcarbon/music_advisor`` 
     
-   or
-    
-- start with *Project from Version Control* in your IDE by providing the url of this repository.
+- or start with *Project from Version Control* in your IDE by providing the url of this repository.
 
